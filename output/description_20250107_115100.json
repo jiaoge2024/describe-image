@@ -1,0 +1,49 @@
+{
+  "source_image_analysis": {
+    "image_specifications": {
+      "aspect_ratio": "1:1",
+      "orientation": "方形",
+      "device_type": "桌面软件"
+    },
+    "subject": {
+      "demographics": "非人物主体，视频下载工具软件界面截图"
+    },
+    "ui_elements": {
+      "platform": "Windows",
+      "app_type": "视频下载工具",
+      "page_type": "主界面",
+      "navigation": {
+        "top_bar": "顶部标题栏，包含窗口控制按钮（最小化、最大化、关闭）"
+      },
+      "main_content": {
+        "title": "微信视频号下载",
+        "body_text": "视频信息输入区域，显示视频链接解析功能",
+        "highlight_text": "解析、下载"
+      },
+      "interactive_elements": ["输入框（视频链接）", "解析按钮", "下载按钮", "链接格式选项"],
+      "icons": ["窗口控制图标"]
+    },
+    "environment": {
+      "setting": "桌面应用程序主窗口界面",
+      "background_elements": ["白色/浅灰色背景", "输入框边框", "按钮区域"]
+    },
+    "design_style": {
+      "visual_style": "简洁的Windows桌面软件风格，扁平化设计",
+      "color_palette": {
+        "primary": "蓝色系",
+        "secondary": "灰色",
+        "background": "白色/浅灰",
+        "accent": "蓝色高亮"
+      },
+      "typography": "中文字体，清晰易读"
+    },
+    "camera_and_technical": {
+      "visual_fidelity": {
+        "resolution": "高清晰度界面截图",
+        "details": "界面元素清晰，文字可读"
+      },
+      "color_grading": "标准软件界面色彩",
+      "composition": "典型的桌面应用垂直布局"
+    }
+  }
+}
